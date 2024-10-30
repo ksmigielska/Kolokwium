@@ -1,0 +1,8 @@
+.
+├── backup
+├── sciezka.txt
+├── struktura_katalogow.txt
+├── wynikkopia.txt
+└── wynik.txt
+
+2 directories, 4 files
